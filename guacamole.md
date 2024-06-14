@@ -2,6 +2,7 @@ Ingredients
 - 2 avocados
 - 1 lime
 - 2 tsp salt
+- Half cup chocolate chips
 - jalapeno to taste
 
 Instructions:
@@ -10,4 +11,5 @@ Instructions:
 - chop jalapeno
 - squeeze lime
 - add salt
+- Stir in chocolate chips
 - and mix well
